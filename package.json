@@ -1,6 +1,6 @@
 {
   "name": "fldigi-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node.js wrapper for fldigi's XML-RPC interface.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
